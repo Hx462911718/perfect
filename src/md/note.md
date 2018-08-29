@@ -17,3 +17,17 @@
      浮点数：      
            float: 4字节（没有f默认为double类型）
            double: 8字节
+    char:
+            单引号：'A' 它表示编码值为65所对应的字符常量
+            双引号：："A" 包含一个字符A的字符串
+     bollean: true 和 false
+     
+ **常量：**
+        
+        finaly修饰，常量名大写（表示这个变量只能被赋值一次，一旦被赋值之后，就不能再更改了）
+        
+ **数值类型之间的转换**
+        
+        实线：表示无信息丢失的转换
+        虚线：表示有信息丢失的转换
+        ![image](https://note.youdao.com/yws/public/resource/f7ec6856afd0a9c963999f932d59fcea/xmlnote/B8DB10F861144494A2FB5F889A8AADD0/7116)
