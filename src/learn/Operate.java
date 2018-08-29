@@ -11,7 +11,11 @@ public class Operate {
         float f= 1.4f;
         int i = 1000;
         //System.out.println(i/0);
-        System.out.println(f/0);
+
+
+        int j = 50;
+
+        System.out.println(i>j ? 10 : 1000);
 
     }
 }
