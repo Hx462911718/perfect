@@ -32,4 +32,4 @@
         虚线：表示有信息丢失的转换
         
        
-![image](https://note.youdao.com/yws/public/resource/f7ec6856afd0a9c963999f932d59fcea/xmlnote/B8DB10F861144494A2FB5F889A8AADD0/7116)
+![image](https://note.youdao.com/yws/public/resource/f7ec6856afd0a9c963999f932d59fcea/xmlnote/B8DB10F861144494A2FB5F889A8AADD0/7116.jpg)
