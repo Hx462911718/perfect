@@ -33,3 +33,22 @@
         
        
 ![image](https://note.youdao.com/yws/public/resource/f7ec6856afd0a9c963999f932d59fcea/xmlnote/B8DB10F861144494A2FB5F889A8AADD0/7116.jpg)
+ ### 1.2
+ **大数值** 
+ 
+       BigInteger类实现了任意精度的整数运算
+       BigDecimal类实现3任意精度的浮点数运算
+       
+ **数组**
+       
+       数组的声明方式
+       int[] a;
+       int a[];
+       注意 数组长度为0与null不同
+       关于快速排序：
+       首先确定一个基准数
+       遍历数组，确保左边的数比它小，右边的数比它大
+       然后递归调用即可
+       
+       
+       
